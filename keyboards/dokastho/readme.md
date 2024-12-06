@@ -5,5 +5,5 @@ Variant of Contra
 # Build
 
 ```
-qmk flash --keyboard contra --keymap default -e CONVERT_TO=kb2040
+qmk flash --keyboard dokastho --keymap default -e CONVERT_TO=kb2040
 ```
